@@ -3,3 +3,6 @@ var objetos = {
     autobus: ["300usd", "azul", "1990"],
     bicicleta: ["400usd", "rojo", "5000"]
 }
+
+
+console.log("ola")
